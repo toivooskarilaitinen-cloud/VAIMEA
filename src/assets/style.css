@@ -4,8 +4,8 @@
   --muted: #9b9b93;
   --line: #31312e;
   --max: 1180px;
-  --mono: Arial, Helvetica, sans-serif;
-  --serif: "Times New Roman", Times, serif;
+  --mono: "Courier New", Courier, monospace;
+  --serif: "Courier New", Courier, monospace;
 }
 
 * { box-sizing: border-box; }

@@ -4,8 +4,8 @@
   --muted: #9b9b93;
   --line: #31312e;
   --max: 1180px;
-  --mono: ui-monospace, "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
-  --serif: Georgia, "Times New Roman", serif;
+  --mono: "Helvetica Neue", "Segoe UI", Arial, sans-serif;
+  --serif: "Helvetica Neue", "Segoe UI", Arial, sans-serif;
 }
 
 * { box-sizing: border-box; }
@@ -46,8 +46,8 @@ nav { display: flex; gap: 24px; }
 .eyebrow { color: var(--muted); text-transform: uppercase; letter-spacing: .08em; font-size: .78rem; }
 .hero h1, .page-header h1, .essay-header h1, .manifesto h1 {
   font-family: var(--serif);
-  font-weight: 400;
-  letter-spacing: -.035em;
+  font-weight: 500;
+  letter-spacing: -.045em;
 }
 .hero h1 { margin: 18px 0 22px; max-width: 780px; font-size: clamp(3rem, 7vw, 6.8rem); line-height: .93; }
 .hero-copy { max-width: 650px; color: #c6c6bf; font-size: 1rem; }

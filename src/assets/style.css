@@ -124,13 +124,13 @@ nav { display: flex; gap: 18px; }
 .essay-body {
   max-width: 720px;
   margin: 64px auto 0;
-  font-family: var(--serif);
+  font-family: "Helvetica Neue", Arial, sans-serif;
   font-size: clamp(1.05rem, 1.6vw, 1.2rem);
   line-height: 1.75;
 }
 .essay-body h2 {
   margin-top: 2.5em;
-  font-family: var(--serif);
+  font-family: "Helvetica Neue", Arial, sans-serif;
   font-size: 1.35em;
   line-height: 1.2;
 }

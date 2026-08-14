@@ -95,7 +95,7 @@ nav { display: flex; gap: 24px; }
   max-width: 720px;
   margin: 64px auto 0;
   font-family: var(--serif);
-  font-size: clamp(1.15rem, 2vw, 1.35rem);
+  font-size: clamp(1.05rem, 1.6vw, 1.2rem);
   line-height: 1.75;
 }
 .essay-body h2 { margin-top: 2.5em; font-family: var(--mono); font-size: .95rem; text-transform: uppercase; letter-spacing: .04em; }

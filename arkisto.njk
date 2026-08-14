@@ -1,0 +1,21 @@
+---
+layout: base.njk
+title: Arkisto
+permalink: /arkisto/index.html
+---
+<header class="page-header">
+  <p class="eyebrow">INDEX // ARKISTO</p>
+  <h1>Arkisto</h1>
+</header>
+
+<ol class="essay-list essay-list--full">
+{% for post in collections.esseet %}
+  <li>
+    <a href="{{ post.url }}">
+      <span class="essay-date">{{ post.date | dateFi }}</span>
+      <span class="essay-title">{{ post.data.title }}</span>
+      <span class="essay-arrow">→</span>
+    </a>
+  </li>
+{% endfor %}
+</ol>

@@ -148,7 +148,7 @@ nav { display: flex; gap: 18px; }
   padding: 100px 0 120px;
 }
 .manifesto p {
-  font-family: var(--serif);
+  font-family: "Helvetica Neue", Arial, sans-serif;
   font-size: clamp(1.4rem, 3vw, 2.2rem);
   line-height: 1.45;
 }

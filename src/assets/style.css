@@ -4,8 +4,8 @@
   --muted: #9b9b93;
   --line: #31312e;
   --max: 1180px;
-  --mono: "Helvetica Neue", "Segoe UI", Arial, sans-serif;
-  --serif: "Helvetica Neue", "Segoe UI", Arial, sans-serif;
+  --mono: Arial, Helvetica, sans-serif;
+  --serif: "Times New Roman", Times, serif;
 }
 
 * { box-sizing: border-box; }

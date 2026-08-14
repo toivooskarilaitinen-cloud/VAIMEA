@@ -1,0 +1,19 @@
+---
+layout: base.njk
+---
+<article class="essay">
+  <header class="essay-header">
+    <p class="eyebrow">ESSEE // {{ page.date | dateFi }}</p>
+    <h1>{{ title }}</h1>
+    {% if description %}<p class="lede">{{ description }}</p>{% endif %}
+  </header>
+
+  <div class="essay-body">
+    {{ content | safe }}
+  </div>
+
+  <footer class="essay-end">
+    <span>— VAIMEA</span>
+    <a href="/esseet/">← kaikki esseet</a>
+  </footer>
+</article>

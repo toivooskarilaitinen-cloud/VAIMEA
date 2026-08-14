@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="fi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <meta name="description" content="{{ description or site.description }}">
+  <title>{% if title %}{{ title }} — {% endif %}{{ site.name }}</title>
+  <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+  <div class="shell">
+    <header class="site-header">
+      <a class="wordmark" href="/">VAIMEA</a>
+      <nav aria-label="Päänavigaatio">
+        <a href="/esseet/">esseet</a>
+        <a href="/manifesti/">manifesti</a>
+        <a href="/arkisto/">arkisto</a>
+      </nav>
+    </header>
+
+    <main>
+      {{ content | safe }}
+    </main>
+
+    <footer class="site-footer">
+      <span>VAIMEA</span>
+      <span>ei seurantaa // ei evästeitä // ei algoritmia</span>
+      <span>rakennettu hitaasti.</span>
+    </footer>
+  </div>
+</body>
+</html>

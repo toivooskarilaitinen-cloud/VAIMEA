@@ -1,0 +1,46 @@
+---
+layout: base.njk
+title: ""
+description: "VAIMEA — riippumaton kirjoitus- ja ajattelutila."
+---
+<section class="hero">
+  <div>
+    <p class="eyebrow">VAIMEA // VER. 0.1</p>
+    <h1>Ajatukset eivät tarvitse alustaa.</h1>
+    <p class="hero-copy">Kulttuuria, yhteiskuntaa, teknologiaa ja urheilua. Pitkiä ajatuksia ilman feediä.</p>
+    <p class="hero-actions"><a href="/esseet/">→ lue esseet</a> <a href="/manifesti/">→ manifesti</a></p>
+  </div>
+  <aside class="statement">
+    <p>// tämä ei ole feed.</p>
+    <p>// tämä ei tunne sinua.</p>
+    <p>// täällä ei ole mitään optimoitavaa.</p>
+  </aside>
+</section>
+
+<section class="latest">
+  <div class="section-head">
+    <h2>Uusimmat</h2>
+    <a href="/arkisto/">arkisto →</a>
+  </div>
+
+  <ol class="essay-list">
+  {% for post in collections.uusimmatEsseet %}
+    <li>
+      <a href="{{ post.url }}">
+        <span class="essay-date">{{ post.date | dateFi }}</span>
+        <span class="essay-title">{{ post.data.title }}</span>
+        <span class="essay-arrow">→</span>
+      </a>
+    </li>
+  {% else %}
+    <li class="empty">Ensimmäinen essee odottaa julkaisua.</li>
+  {% endfor %}
+  </ol>
+</section>
+
+<section class="principles">
+  <p>OMA TILA</p>
+  <p>OMA ARKISTO</p>
+  <p>OMA RYTMI</p>
+  <p>JULKINEN VERKKO // ONION MYÖHEMMIN</p>
+</section>

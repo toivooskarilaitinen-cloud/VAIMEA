@@ -1,0 +1,22 @@
+---
+layout: base.njk
+title: Esseet
+---
+<header class="page-header">
+  <p class="eyebrow">INDEX // ESSEET</p>
+  <h1>Esseet</h1>
+  <p>Ei järjestystä tärkeyden mukaan. Uusin ensin.</p>
+</header>
+
+<ol class="essay-list essay-list--full">
+{% for post in collections.esseet %}
+  <li>
+    <a href="{{ post.url }}">
+      <span class="essay-date">{{ post.date | dateFi }}</span>
+      <span class="essay-title">{{ post.data.title }}</span>
+      <span class="essay-arrow">→</span>
+    </a>
+    {% if post.data.description %}<p>{{ post.data.description }}</p>{% endif %}
+  </li>
+{% endfor %}
+</ol>

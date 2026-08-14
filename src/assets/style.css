@@ -4,8 +4,8 @@
   --muted: #9b9b93;
   --line: #31312e;
   --max: 1180px;
-  --mono: "IBM Plex Mono", "Courier New", Courier, monospace;
-  --serif: "Times New Roman", Times, serif;
+  --mono: "Helvetica Neue", Arial, sans-serif;
+  --serif: "Helvetica Neue", Arial, sans-serif;
 }
 
 * { box-sizing: border-box; }

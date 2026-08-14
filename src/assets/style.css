@@ -1,10 +1,10 @@
 :root {
-  --paper: #f4f2eb;
-  --ink: #0b0b0b;
-  --muted: #5c5c56;
-  --line: #0b0b0b;
+  --paper: #050505;
+  --ink: #f2f2ed;
+  --muted: #9b9b93;
+  --line: #3a3a36;
   --max: 1120px;
-  --mono: "Courier New", Courier, monospace;
+  --mono: "IBM Plex Mono", "Courier New", Courier, monospace;
   --serif: "Times New Roman", Times, serif;
 }
 

@@ -110,14 +110,13 @@ nav { display: flex; gap: 24px; }
 .site-footer {
   min-height: 110px;
   display: grid;
-  grid-template-columns: 1fr 2fr 1fr;
+  grid-template-columns: 1fr 1fr;
   gap: 20px;
   align-items: center;
   color: var(--muted);
   font-size: .7rem;
   text-transform: uppercase;
 }
-.site-footer span:nth-child(2) { text-align: center; }
 .site-footer span:last-child { text-align: right; }
 
 @media (max-width: 760px) {
@@ -131,6 +130,6 @@ nav { display: flex; gap: 24px; }
   .essay-list--full li > p { margin: -6px 36px 22px 0; }
   .principles { grid-template-columns: 1fr 1fr; }
   .site-footer { grid-template-columns: 1fr; padding: 28px 0; }
-  .site-footer span:nth-child(2), .site-footer span:last-child { text-align: left; }
+  .site-footer span:last-child { text-align: left; }
   .essay { padding-top: 72px; }
 }

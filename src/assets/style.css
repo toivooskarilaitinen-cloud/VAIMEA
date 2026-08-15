@@ -113,6 +113,20 @@ nav { display: flex; gap: 18px; }
   font-size: clamp(1.15rem, 2.2vw, 1.75rem);
 }
 .link-list a span { color: var(--muted); }
+.link-featured a { align-items: flex-start; }
+.link-featured .link-copy {
+  display: grid;
+  gap: 8px;
+  color: var(--fg);
+}
+.link-featured strong { font-weight: 400; }
+.link-featured small {
+  max-width: 720px;
+  color: var(--muted);
+  font-size: .85rem;
+  line-height: 1.55;
+}
+.link-featured .link-arrow { flex: 0 0 auto; }
 
 .essay {
   max-width: 900px;

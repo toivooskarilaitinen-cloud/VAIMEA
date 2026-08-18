@@ -1,0 +1,23 @@
+---
+layout: base.njk
+title: Toiset
+permalink: /toiset/index.html
+---
+
+<header class="page-header">
+  <p class="eyebrow">MUUT // TOISET</p>
+  <h1>Toiset</h1>
+  <p class="lede">Ihmisten lähettämiä.</p>
+</header>
+
+<ol class="essay-list essay-list--full">
+{% for post in collections.toisetTekstit %}
+  <li>
+    <a href="{{ post.url }}">
+      <span class="essay-date">{{ post.date | dateFi }}</span>
+      <span class="essay-title">{{ post.data.title }}{% if post.data.author %}<br><small>{{ post.data.author }}</small>{% endif %}</span>
+      <span class="essay-arrow">→</span>
+    </a>
+  </li>
+{% endfor %}
+</ol>

@@ -27,6 +27,12 @@ export default function (eleventyConfig) {
       .slice(0, 5);
   });
 
+  eleventyConfig.addCollection("toisetTekstit", (collectionApi) => {
+    return collectionApi
+      .getFilteredByTag("toiset")
+      .sort((a, b) => b.date - a.date);
+  });
+
   return {
     pathPrefix: "/",
     dir: {

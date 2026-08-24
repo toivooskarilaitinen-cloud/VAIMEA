@@ -9,13 +9,24 @@ permalink: /lab/index.html
   <p>Oppimassa näkemään.</p>
 </header>
 
+{% set tools = [
+  {
+    number: "001",
+    title: "MONITORI",
+    url: "https://toivooskarilaitinen-cloud.github.io/monitori/",
+    description: "Internetin päivittäinen tila viiden sensorin kautta: huomio, tieto, tapahtumat, aktiivisuus ja keskustelu."
+  }
+] %}
+
 <ol class="essay-list essay-list--full">
-  <li>
-    <a href="https://toivooskarilaitinen-cloud.github.io/monitori/" target="_blank" rel="noopener noreferrer">
-      <span class="essay-date">001</span>
-      <span class="essay-title">MONITORI</span>
-      <span class="essay-arrow">→</span>
-    </a>
-    <p>Internetin päivittäinen tila viiden sensorin kautta: huomio, tieto, tapahtumat, aktiivisuus ja keskustelu.</p>
-  </li>
+  {% for tool in tools %}
+    <li>
+      <a href="{{ tool.url }}" target="_blank" rel="noopener noreferrer">
+        <span class="essay-date">{{ tool.number }}</span>
+        <span class="essay-title">{{ tool.title }}</span>
+        <span class="essay-arrow">→</span>
+      </a>
+      <p>{{ tool.description }}</p>
+    </li>
+  {% endfor %}
 </ol>

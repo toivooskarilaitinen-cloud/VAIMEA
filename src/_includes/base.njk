@@ -6,22 +6,28 @@
   <meta name="color-scheme" content="dark">
   <meta name="description" content="{{ description or site.description }}">
   <title>{% if title %}{{ title }} — {% endif %}{{ site.name }}</title>
-  <link rel="stylesheet" href="/assets/style.css">
+  <link rel="stylesheet" href="/assets/style.css?v=weather-kuopio">
   <link rel="alternate" type="application/rss+xml" title="VAIMEA RSS" href="/feed.xml">
 </head>
 <body>
   <div class="shell">
     <header class="site-header">
       <a class="wordmark" href="/manifesti/" aria-label="VAIMEA — manifesti">VAIMEA</a>
-      <nav aria-label="Päänavigaatio">
-        <a href="/">[ uusimmat ]</a>
-        <a href="/arkisto/">[ arkisto ]</a>
-        <a href="/toiset/">[ toiset ]</a>
-        <a href="/laheta/">[ lähetä ]</a>
-        <a href="/linkit/">[ linkit ]</a>
-        <a href="/lab/">[ lab ]</a>
-        <a href="/feed.xml">[ rss ]</a>
-      </nav>
+      <div class="header-right">
+        <div class="site-status" aria-label="Kellonaika ja sää Kuopiossa">
+          <span id="site-clock">—</span>
+          <span id="site-weather">KUOPIO —</span>
+        </div>
+        <nav aria-label="Päänavigaatio">
+          <a href="/">[ uusimmat ]</a>
+          <a href="/arkisto/">[ arkisto ]</a>
+          <a href="/toiset/">[ toiset ]</a>
+          <a href="/laheta/">[ lähetä ]</a>
+          <a href="/linkit/">[ linkit ]</a>
+          <a href="/lab/">[ lab ]</a>
+          <a href="/feed.xml">[ rss ]</a>
+        </nav>
+      </div>
     </header>
 
     <main>
@@ -33,5 +39,44 @@
       <span>tapa nähdä maailma</span>
     </footer>
   </div>
+  <script>
+    (() => {
+      const weatherUrl = "https://api.open-meteo.com/v1/forecast?latitude=62.8924&longitude=27.6770&current=temperature_2m,weather_code,is_day&timezone=Europe%2FHelsinki";
+      const label = (code,isDay) => {
+        if(code === 0) return isDay ? "aurinkoinen" : "selkeä";
+        if(code === 1) return "enimmäkseen selkeä";
+        if(code === 2) return "puolipilvinen";
+        if(code === 3) return "pilvinen";
+        if(code === 45 || code === 48) return "sumuinen";
+        if(code >= 51 && code <= 57) return "tihkusateinen";
+        if(code >= 61 && code <= 67) return "sateinen";
+        if(code >= 71 && code <= 77) return "lumisateinen";
+        if(code >= 80 && code <= 82) return "sadekuuroja";
+        if(code === 85 || code === 86) return "lumikuuroja";
+        if(code >= 95) return "ukkonen";
+        return "säätila tuntematon";
+      };
+      const updateClock = () => {
+        document.getElementById("site-clock").textContent = new Date().toLocaleTimeString("fi-FI", {
+          timeZone: "Europe/Helsinki", hour: "2-digit", minute: "2-digit", second: "2-digit"
+        });
+      };
+      const updateWeather = async () => {
+        const target = document.getElementById("site-weather");
+        try {
+          const response = await fetch(weatherUrl);
+          if(!response.ok) throw new Error(String(response.status));
+          const current = (await response.json()).current;
+          target.textContent = `KUOPIO ${Math.round(current.temperature_2m)} °C · ${label(current.weather_code,current.is_day === 1).toUpperCase()}`;
+        } catch(error) {
+          target.textContent = "KUOPIO — · SÄÄ EI SAATAVILLA";
+        }
+      };
+      updateClock();
+      updateWeather();
+      setInterval(updateClock,1000);
+      setInterval(updateWeather,15*60*1000);
+    })();
+  </script>
 </body>
 </html>

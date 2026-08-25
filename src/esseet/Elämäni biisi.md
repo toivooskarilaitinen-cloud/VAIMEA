@@ -32,7 +32,7 @@ Mennään yksi tai kaksi sukupolvea taaksepäin kun musiikki oli oikeasti vielä
 
 Tämä ei ole suoranaista kritiikkiä mihinkään suuntaan. Enemmänkin hieman surumielistä pohdintaa siitä kuinka aivan kaikesta on tullut nopeasti vaihtuvaa kulutustavaraa emmekä ehdi mihinkään muodostaa oikeasti syvempää suhdetta siihen, olipa se sitten musiikkia, sarjoja tai elokuvia.
 
-Silti, kun ajattelen John Frusciantea soittamassa aivan toisessa ulottuvuudessa kitaraansa, Chad Smithia paukuttamassa rumpujaan, Gösta Sundqvistia kirjoittamassa pistävän nerokkaita sanoituksiaan, Glenn Freyta säveltämässä tupakanhajuisessa studiossa, ja jokaista nuorta muusikon alkua unelmoimassa tähteydestä, on musiikki on aivan helvetin kaunista ja monessa kohtaa miljardien elämässä läsnä. 
+Silti, kun ajattelen John Frusciantea soittamassa aivan toisessa ulottuvuudessa kitaraansa, Chad Smithia paukuttamassa rumpujaan, Gösta Sundqvistia kirjoittamassa pistävän nerokkaita sanoituksiaan, Glenn Freyta säveltämässä tupakanhajuisessa studiossa, ja jokaista nuorta muusikon alkua unelmoimassa tähteydestä, on musiikki aivan helvetin kaunista ja monessa kohtaa miljardien elämässä läsnä. 
 
 Myös minulla aina muistona käsivarsissa. Vaikka en osaa soittaa tai laulaa, enkä ymmärrä siitä vähääkään.
 

@@ -36,4 +36,6 @@ Silti, kun ajattelen John Frusciantea soittamassa jossain aivan toisessa ulottuv
 
 Minulla myös aina muistona käsivarsissa. Vaikka en osaa soittaa tai laulaa, enkä ymmärrä siitä sitäkään vähää.
 
-Silti jos saisin joskus kunnian mennä Elämäni biisi ohjelmaan, veisin mukanani sinne Red Hot Chili Peppersin Scar Tissuen. Ehkä kerron tästä tarinan joskus, ehkä en.
+Niin, entä se elämäni biisi? No se on tietenkin Red Hot Chili Peppersin Scar Tissue. 
+Ehkä kerron siitä tarinan joskus, ehkä en.
+

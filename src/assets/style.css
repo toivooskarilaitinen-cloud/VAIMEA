@@ -172,6 +172,23 @@ nav { display: flex; gap: 18px; }
 }
 .essay-body a { text-decoration: underline; text-underline-offset: .2em; }
 
+.soundtrack {
+  margin: 36px 0 48px;
+}
+.soundtrack-label {
+  margin: 0 0 10px;
+  color: var(--muted);
+  font-family: var(--mono);
+  font-size: .72rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+.soundtrack iframe {
+  display: block;
+  border: 0;
+  border-radius: 0;
+}
+
 .manifesto {
   max-width: 820px;
   margin: 0 auto;

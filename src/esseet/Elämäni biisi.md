@@ -1,7 +1,7 @@
 ---
 title: "Elämäni biisi"
 date: 2026-08-25
-description: "Noissa muutamassa sekunnissa elämäni muuttui lopullisesti"
+description: "Noissa muutamassa sekunnissa elämäni muuttui lopullisesti."
 ---
 
 Pysähdy heti alkuun ennen kuin alat lukemaan. Haahuillaan unelmiin hetkeksi yhdessä.

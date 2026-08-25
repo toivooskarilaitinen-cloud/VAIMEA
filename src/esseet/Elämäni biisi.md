@@ -32,11 +32,11 @@ Mennään yksi tai kaksi sukupolvea taaksepäin kun musiikki oli oikeasti vielä
 
 Tämä ei ole suoranaista kritiikkiä mihinkään suuntaan. Enemmänkin hieman surumielistä pohdintaa siitä kuinka aivan kaikesta on tullut nopeasti vaihtuvaa kulutustavaraa emmekä ehdi mihinkään muodostaa oikeasti syvempää suhdetta siihen, olipa se sitten musiikkia, sarjoja tai elokuvia.
 
-Silti, kun ajattelen John Frusciantea soittamassa jossain aivan toisessa ulottuvuudessa kitaraansa, Chad Smithia paukuttamassa rumpujaan, Gösta Sundqvistia kirjoittamassa pistävän nerokkaita sanoituksiaan, Glenn Freyta säveltämässä tupakanhajuisessa studiossa, ja jokaista nuorta muusikon alkua unelmoimassa tähteydestä, on musiikki on aivan helvetin kaunista ja monessa kohtaa miljardien elämässä läsnä. 
+Silti, kun ajattelen John Frusciantea soittamassa aivan toisessa ulottuvuudessa kitaraansa, Chad Smithia paukuttamassa rumpujaan, Gösta Sundqvistia kirjoittamassa pistävän nerokkaita sanoituksiaan, Glenn Freyta säveltämässä tupakanhajuisessa studiossa, ja jokaista nuorta muusikon alkua unelmoimassa tähteydestä, on musiikki on aivan helvetin kaunista ja monessa kohtaa miljardien elämässä läsnä. 
 
-Minulla myös aina muistona käsivarsissa. Vaikka en osaa soittaa tai laulaa, enkä ymmärrä siitä sitäkään vähää.
+Myös minulla aina muistona käsivarsissa. Vaikka en osaa soittaa tai laulaa, enkä ymmärrä siitä vähääkään.
 
-Niin, entä se elämäni biisi? No se on tietenkin Red Hot Chili Peppersin Scar Tissue. 
+Niin ja entä se elämäni biisi? No se on tietenkin Red Hot Chili Peppersin Scar Tissue. 
 Ehkä kerron siitä tarinan joskus, ehkä en.
 
 <p><a href="https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1" target="_blank" rel="noopener noreferrer">kuuntele</a></p>

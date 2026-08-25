@@ -6,6 +6,11 @@ description: "Noissa muutamassa sekunnissa elämäni muuttui lopullisesti"
 
 Pysähdy heti alkuun ennen kuin alat lukemaan. Haahuillaan unelmiin hetkeksi yhdessä.
 
+<div class="soundtrack">
+  <p class="soundtrack-label">aloita kuuntelu</p>
+  <iframe title="Red Hot Chili Peppers — Scar Tissue" src="https://open.spotify.com/embed/track/1G391cbiT3v3Cywg8T7DM1?utm_source=generator&theme=0" width="100%" height="152" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+
 Kuvittele itsesi mieluisaan paikkaan. Minun paikkani on jossain lämpimässä ilta-auringossa. Istun mukavassa tuolissa, huokaisen syvään ja hartiani laskeutuvat rennoksi. Jännitys kropasta häviää. Otan painavan nojan taaksepäin, katseeni hakeutuu horisonttiin ja lämmön väreily hajottaa sen. Aurinko hyväilee viimeisillä säteillään kasvojani. On täysin tyyntä. Sytytän tupakan, kädessä on kylmä olut (Peroni) ja vieressä kulhollinen Estrellan suolapähkinöitä. Kaivan kuulokkeet, selvitän ne huolimattomasti solmusta, laitan napit korville ja Spotifyn satunnaistoisto tarjoilee minulle Red Hot Chili Peppersin Scar Tissuen. 
 
 Se on siinä. Suljen silmäni ja leijailen pois. 

@@ -20,7 +20,7 @@ Vasempaan käsivarteen otin sanat The more I see the less I know ja oikeaan käs
 
 Kerron tarinan, ehkä hahmotat sen kautta mitä musiikki minulle merkitsee.
 
-Poikien synnytys käynnistyi 4.1.2024 noin yhden aikaan aamuyöstä. Kaksosten kanssa lähdettiin ambulanssikyydillä sairaalaan. Tai siis puolisoni lähti. Minä jäin käyttämään koiran pihalla ja odottamaan läheisiä koiravahdiksi. He saapuivat hetken päästä ja lähdin itsekin samoin tein ajamaan kohti sairaalaa. Pienestä unentokkurasta ja suuresta hämmennyksestä huolimatta, lumihiutaleiden hiljaa leijaillessa tammikuisessa yössä, kaarsin totuttuun tyyliin tutulta rampilta moottoritielle ja laitoin spotifysta satunnaistoistolla musiikkia soimaan. 
+Poikien synnytys käynnistyi 4.1.2025 noin yhden aikaan aamuyöstä. Kaksosten kanssa lähdettiin ambulanssikyydillä sairaalaan. Tai siis puolisoni lähti. Minä jäin käyttämään koiran pihalla ja odottamaan läheisiä koiravahdiksi. He saapuivat hetken päästä ja lähdin itsekin samoin tein ajamaan kohti sairaalaa. Pienestä unentokkurasta ja suuresta hämmennyksestä huolimatta, lumihiutaleiden hiljaa leijaillessa tammikuisessa yössä, kaarsin totuttuun tyyliin tutulta rampilta moottoritielle ja laitoin Spotifysta satunnaistoistolla musiikkia soimaan. 
 
 Muistan elävästi tuon hetken kun John Fruscianten maagiset sähkökitaran soinnut pysäyttävät maailman hetkeksi ympäriltä. Olen täysin yksin, jokainen kitarankielen värähdys kaivertuu selkäytimeen ikuisiksi ajoiksi kun kiidän jo tyhjää valtatie vitosta kohti Pohjoista pientä ylinopeutta ajaen. Noissa muutamassa sekunnissa elämäni muuttui lopullisesti. Minusta tulisi isä.
 

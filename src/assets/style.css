@@ -98,6 +98,17 @@ nav { display: flex; gap: 18px; }
 }
 .essay-list--full { margin-bottom: 80px; }
 
+.book-list .book-author {
+  color: var(--muted);
+  font-size: .8rem;
+}
+.book-story-label {
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  font-size: .78rem;
+}
+
 .link-list {
   list-style: none;
   padding: 0;
@@ -210,6 +221,7 @@ nav { display: flex; gap: 18px; }
   nav { gap: 10px; flex-wrap: wrap; justify-content: flex-end; }
   .essay-list li > a { grid-template-columns: 1fr 26px; gap: 10px; }
   .essay-date { grid-column: 1 / -1; }
+  .book-list .book-author { grid-column: 1 / -1; }
   .site-footer { grid-template-columns: 1fr; padding: 28px 0; }
   .site-footer span:last-child { text-align: left; }
   .essay { padding-top: 72px; }

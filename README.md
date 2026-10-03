@@ -21,6 +21,14 @@ description: "Lyhyt kuvaus."
 
 Siinä kaikki.
 
+## Uuden kirjan lisääminen Kirjahyllyyn
+
+1. Kopioi `BOOK_TEMPLATE.md` kansioon `src/kirjat/`.
+2. Nimeä tiedosto esimerkiksi `kirjan-nimi.md`.
+3. Muokkaa alun kenttiin kirjan nimi, kirjailija ja lisäyspäivä.
+4. Kirjoita oma tarinasi niiden alle tavallisena Markdownina.
+5. Tallenna ja puske GitHubiin. Kirjahylly päivittyy automaattisesti.
+
 ## Paikallinen esikatselu
 
 Tarvitset Node.js 18+.

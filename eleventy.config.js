@@ -33,6 +33,12 @@ export default function (eleventyConfig) {
       .sort((a, b) => b.date - a.date);
   });
 
+  eleventyConfig.addCollection("kirjat", (collectionApi) => {
+    return collectionApi
+      .getFilteredByTag("kirja")
+      .sort((a, b) => b.date - a.date);
+  });
+
   return {
     pathPrefix: "/",
     dir: {

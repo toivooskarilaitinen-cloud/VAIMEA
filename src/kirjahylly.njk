@@ -1,0 +1,21 @@
+---
+layout: base.njk
+title: Kirjahylly
+permalink: /kirjahylly/index.html
+---
+<header class="page-header">
+  <p class="eyebrow">INDEX // KIRJAHYLLY</p>
+  <h1>Kirjahylly</h1>
+</header>
+
+<ol class="essay-list essay-list--full book-list">
+{% for book in collections.kirjat %}
+  <li>
+    <a href="{{ book.url }}">
+      <span class="book-author">{{ book.data.author }}</span>
+      <span class="essay-title">{{ book.data.title }}</span>
+      <span class="essay-arrow">→</span>
+    </a>
+  </li>
+{% endfor %}
+</ol>

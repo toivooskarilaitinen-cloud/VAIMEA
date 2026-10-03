@@ -1,0 +1,15 @@
+---
+layout: base.njk
+---
+<article class="essay book">
+  <header class="essay-header">
+    <p class="eyebrow">KIRJA // {{ author }}</p>
+    <h1>{{ title }}</h1>
+    {% if description %}<p class="lede">{{ description }}</p>{% endif %}
+  </header>
+
+  <div class="essay-body">
+    <p class="book-story-label">Tarina kirjan takaa</p>
+    {{ content | safe }}
+  </div>
+</article>

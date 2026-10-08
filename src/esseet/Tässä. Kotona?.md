@@ -1,6 +1,6 @@
 ---
 title: "Tässä. Kotona?"
-date: 2026-08-14
+date: 2026-10-08
 description: "Tarkkailijan paikalla"
 ---
 Otan tummapaahtoisen kahvin kauramaidolla sekä lasin vettä ja istahdan pöytään. Juon kahviani ison ketjun kahvilassa ja tarkkailen ympäristöäni. Ylemmyyden tunnoissani ajattelen, että tällaisessa ison ketjun kahvilassa käyvillä ihmisillä ei ole minkäänlaista makua, koska käyvät tällaisessa bulkkilassa nauttimassa kädenlämpöisestä palvelusta, haaleasta kahvista ja keskinkertaisista leivonnaisista. Minä itsehän tulin kyseiseeen kahvilaan tietenkin vain pakon sanelemana ja mielenkiinnosta tarkkailemaan.

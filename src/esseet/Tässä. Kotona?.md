@@ -1,5 +1,6 @@
 ---
 title: "Tässä. Kotona?"
+permalink: /esseet/tassa-kotona/
 date: 2026-10-08
 description: "Tarkkailijan paikalla"
 ---

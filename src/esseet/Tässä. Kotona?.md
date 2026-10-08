@@ -1,0 +1,14 @@
+---
+title: "Tässä. Kotona?"
+date: 2026-08-14
+description: "Tarkkailijan paikalla"
+---
+Otan tummapaahtoisen kahvin kauramaidolla sekä lasin vettä ja istahdan pöytään. Juon kahviani ison ketjun kahvilassa ja tarkkailen ympäristöäni. Ylemmyyden tunnoissani ajattelen, että tällaisessa ison ketjun kahvilassa käyvillä ihmisillä ei ole minkäänlaista makua, koska käyvät tällaisessa bulkkilassa nauttimassa kädenlämpöisestä palvelusta, haaleasta kahvista ja keskinkertaisista leivonnaisista. Minä itsehän tulin kyseiseeen kahvilaan tietenkin vain pakon sanelemana ja mielenkiinnosta tarkkailemaan.
+
+Viereisessä pöydässä nuorisoporukka porisee iloisena englannin kielellä jotain koulujuttuja ja muuta opiskeluun liittyvää. Yatz peli on pöydällä avattuna, mutta peli on jäänyt kesken jo pitkän aikaa sitten. Vastapäisessä pöydässä maahanmuuttajataustainen porukka keskustelee omalla kielellään jostakin. Takanani pitkällä pehmustetulla penkillä, jonka edessä on kuusi pientä pöytää, on kolme ihmistä läppärit mukanaan joko tekemässä töitä tai opiskelemassa. Epäilen, että kaksi on opiskelijoita ja yksi tekemässä töitä. 
+
+Kahvilan seinä on käytännössä pelkästään lasia ja lasin toisella puolella aukeaa Kaivokatu ja Helsingin päärautatieaseman Asema-aukio. Katselen ulos ja samaan aikaan minut valtaa todella voimakas lämmöntunne sydämessä. Katseeni ja ajatukseni hukkuvat tuohon loputtomaan ihmisten virtaan samalla kun kuulen kahvilan tasaisen porinan, keittiöstä astioiden kilinän ja otan ensimmäisen ison hörpyn tuosta bulkkiketjun tarjoamasta heidän erikoistummapaahdosta. 
+
+Tunnistan lämmöntunteen. Se on haikeutta ja kaipuuta. Samaan aikaan se on varmistus sille, että tiedän olevani kotona.  Maailma tapahtuu ympärilläni ja olen ulkopuolinen. Kukaan ei tunne minua, enkä minä tunne ketään. Olen vain tarkkailijana kaupungin loputtomassa virrassa, joka on ollut täällä ennen minua ja jatkaa elämistään minun jälkeeni. Minä en merkitse sille mitään, mutta minulle se on juuri tässä ja nyt kaikki. Kodittoman tyhjä katse, ystävien iloinen tilitys liikennevaloissa päivän tapahtumista, liikemiehen hengästynyt puhe puhelimeen, isän tuima, mutta rakastava katse väkijoukon keskellä juoksentelevan taaperon perään sekoittuvat kaikki yhdeksi hengittäväksi organismiksi -kaupungiksi. Tuo loputon liike tuhansine eri tarinoineen antaa minulle kodin ja merkityksellisyyden tunteen tuossa hajuttomassa ja mauttomassa ketjukahvilassa. 
+
+Havahdun tuosta transsinomaisesta kymmenen sekunnin hetkestäni kun työntekijä kysymättä vie tyhjän vesilasini pöydältä ja hymähdän itsekseni. En työntekijälle vaan itselleni, omaa ristiriitaisuuttani. Istun vielä hetken, juon kuppini tyhjäksi ja poistun kaupungin virtaan osaksi sitä ja jätän paikkani seuraavalle. Ehkä tarkkailijalle tai jollekin muulle. Kaupunkia se ei kiinnosta. 
